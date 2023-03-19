@@ -1,0 +1,12 @@
+.component-container {
+  display: flex;
+  position: relative;
+  background-size: cover;
+  background-image: url("https://play.teleporthq.io/static/svg/default-img.svg");
+}
+.component-root-class-name {
+  top: 0px;
+  flex: 1;
+  left: 0px;
+  position: absolute;
+}
